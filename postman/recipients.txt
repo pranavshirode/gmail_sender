@@ -1,0 +1,13 @@
+# Recipient Email Addresses
+# One email address per line
+# Lines starting with # are ignored
+# Empty lines are ignored
+
+# Example recipients (replace with actual email addresses):
+# recipient1@example.com
+# recipient2@example.com
+# recipient3@example.com
+
+
+
+
